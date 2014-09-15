@@ -1,0 +1,13 @@
+c:\users\garrett\documents\visual studio 2012\Projects\TutorialGameTwo\TutorialGameTwo\TutorialGameTwo\bin\x86\Debug\TutorialGameTwo.exe
+c:\users\garrett\documents\visual studio 2012\Projects\TutorialGameTwo\TutorialGameTwo\TutorialGameTwo\bin\x86\Debug\TutorialGameTwo.pdb
+c:\users\garrett\documents\visual studio 2012\Projects\TutorialGameTwo\TutorialGameTwo\TutorialGameTwo\obj\x86\Debug\TutorialGameTwo.csprojResolveAssemblyReference.cache
+c:\users\garrett\documents\visual studio 2012\Projects\TutorialGameTwo\TutorialGameTwo\TutorialGameTwo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\garrett\documents\visual studio 2012\Projects\TutorialGameTwo\TutorialGameTwo\TutorialGameTwo\obj\x86\Debug\TutorialGameTwo.exe
+c:\users\garrett\documents\visual studio 2012\Projects\TutorialGameTwo\TutorialGameTwo\TutorialGameTwo\obj\x86\Debug\TutorialGameTwo.pdb
+c:\users\garrett\documents\visual studio 2012\Projects\TutorialGameTwo\TutorialGameTwo\TutorialGameTwo\bin\x86\Debug\Content\paddle.xnb
+c:\users\garrett\documents\visual studio 2012\Projects\TutorialGameTwo\TutorialGameTwo\TutorialGameTwo\bin\x86\Debug\Content\paddle.png
+c:\users\garrett\documents\visual studio 2012\Projects\TutorialGameTwo\TutorialGameTwo\TutorialGameTwo\bin\x86\Debug\Content\ball.xnb
+c:\users\garrett\documents\visual studio 2012\Projects\TutorialGameTwo\TutorialGameTwo\TutorialGameTwo\bin\x86\Debug\Content\blueBlock.xnb
+c:\users\garrett\documents\visual studio 2012\Projects\TutorialGameTwo\TutorialGameTwo\TutorialGameTwo\bin\x86\Debug\Content\greenBlock.xnb
+c:\users\garrett\documents\visual studio 2012\Projects\TutorialGameTwo\TutorialGameTwo\TutorialGameTwo\bin\x86\Debug\Content\purpleBlock.xnb
+C:\Users\Garrett\documents\visual studio 2012\Projects\TutorialGameTwo\TutorialGameTwo\TutorialGameTwo\bin\x86\Debug\Content\Framefont.xnb

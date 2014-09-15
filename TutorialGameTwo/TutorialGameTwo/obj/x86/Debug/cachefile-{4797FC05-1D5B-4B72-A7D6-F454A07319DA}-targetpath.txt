@@ -1,0 +1,7 @@
+Content\paddle.xnb
+Content\ball.xnb
+Content\blueBlock.xnb
+Content\greenBlock.xnb
+Content\purpleBlock.xnb
+Content\Framefont.xnb
+Content\paddle.png

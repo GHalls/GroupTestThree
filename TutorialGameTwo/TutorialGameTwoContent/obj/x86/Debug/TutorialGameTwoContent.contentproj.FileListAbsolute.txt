@@ -1,0 +1,1 @@
+c:\users\garrett\documents\visual studio 2012\Projects\TutorialGameTwo\TutorialGameTwo\TutorialGameTwoContent\obj\x86\Debug\TutorialGameTwoContent.contentprojResolveAssemblyReference.cache
