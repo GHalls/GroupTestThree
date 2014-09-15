@@ -55,7 +55,7 @@ namespace TutorialGameTwo
             ballPos = new Vector2((paddlePos.X + (paddle.Width / 2) - (ball.Width / 2)), paddlePos.Y - (paddle.Height / 2) - (ball.Height / 2));
             blueBlock = Content.Load<Texture2D>("blueBlock");
             greenBlock = Content.Load<Texture2D>("greenBlock");
-            purpleBlock = Content.Load<Texture2D>("purpleBlock");
+            purpleBlock = Content.Load<Texture2D>("greenBlock");
             blockWidth = blueBlock.Width;
             blockHeight = blueBlock.Height;
             blockList = generateBlocks();
